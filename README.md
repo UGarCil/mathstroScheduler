@@ -2,6 +2,8 @@
 
 A heuristic teacher-instructor scheduler optimization tool that efficiently matches sessions with available instructors based on time constraints and preferences.
 
+![Scheduler Diagram](./media/scheduler.png)
+
 ## Overview
 
 MathStro Scheduler uses a heuristic approach to solve the optimality problem of matching class sessions with instructor availability. The algorithm aims to create an optimal configuration where:
